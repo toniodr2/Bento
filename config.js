@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'a753418a94afb1e8b53e8caa1da3c8a9', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -135,26 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'lamp-desk',
+			icon: 'music',
 			id: '1',
 			links: [
 				{
-					name: 'CSE101',
-					link: 'https://people.ucsc.edu/~ptantalo/cse101/Winter24/',
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'CSE107',
-					link: 'https://people.ucsc.edu/%7Eptantalo/cse107/Winter24/',
+					name: 'Classic',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
 		{
-			icon: 'ship-wheel',
+			icon: 'coffee',
 			id: '2',
 			links: [
 				{
-					name: 'MegaThread',
-					link: 'https://rentry.org/pgames',
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
+				},
+				{
+					name: 'Dribbble',
+					link: 'https://www.dribbble.com',
+				},
+				{
+					name: 'Trello',
+					link: 'https://www.trello.com',
+				},
+				{
+					name: 'Slack',
+					link: 'https://www.slack.com',
 				},
 			],
 		},
