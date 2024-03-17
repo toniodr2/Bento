@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'workflow',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'CSE101',
+					link: 'https://people.ucsc.edu/~ptantalo/cse101/Winter24/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'CSE107',
+					link: 'https://people.ucsc.edu/%7Eptantalo/cse107/Winter24/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'EdStem',
+					link: 'https://edstem.org/us/dashboard',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'FormulaSlug',
+					link: 'https://www.formulaslug.com/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'dices',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'GitHub',
+					link: 'https://github.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Gradescope',
+					link: 'https://www.gradescope.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'FMHY',
+					link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'MegaThread',
+					link: 'https://rentry.org/pgames',
 				},
 			],
 		},
