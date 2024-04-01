@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://www.gradescope.com/',
 				},
 				{
-					name: 'FMHY',
-					link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/',
+					name: 'Piazza',
+					link: 'https://piazza.com/class/luf02ysb4271lr',
 				},
 				{
 					name: 'MegaThread',
