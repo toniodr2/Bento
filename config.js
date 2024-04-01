@@ -151,7 +151,7 @@ const CONFIG = {
 					link: 'https://edstem.org/us/dashboard',
 				},
 				{
-					name: 'FormulaSlug',
+					name: 'Formula Slug',
 					link: 'https://www.formulaslug.com/',
 				},
 			],
