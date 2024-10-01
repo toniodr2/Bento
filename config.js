@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
+	greetingMorning: 'Buenos Dias!',
 	greetingAfternoon: 'Good afternoon',
 	greetingEvening: 'Good evening',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'A dormir!',		
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -139,11 +139,11 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'CSE101',
-					link: 'https://people.ucsc.edu/~ptantalo/cse101/Winter24/',
+					name: 'CSE107 New',
+					link: 'https://people.ucsc.edu/~ptantalo/cse107/Fall24/',
 				},
 				{
-					name: 'CSE107',
+					name: 'CSE107 Old',
 					link: 'https://people.ucsc.edu/%7Eptantalo/cse107/Winter24/',
 				},
 				{
@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://edstem.org/us/dashboard',
 				},
 				{
-					name: 'Formula Slug',
-					link: 'https://www.formulaslug.com/',
+					name: 'CSE120',
+					link: 'https://drive.google.com/drive/u/1/folders/1NeXZXG4tWYlPeeqgTt2R8P6HO-s151Jf',
 				},
 			],
 		},
