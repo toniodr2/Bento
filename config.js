@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://piazza.com/class/luf02ysb4271lr',
 				},
 				{
-					name: 'MegaThread',
-					link: 'https://rentry.org/pgames',
+					name: 'CrowdGrader',
+					link: 'https://www.crowdgrader.org/',
 				},
 			],
 		},
