@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://edstem.org/us/dashboard',
 				},
 				{
-					name: 'CSE120',
-					link: 'https://drive.google.com/drive/u/1/folders/1NeXZXG4tWYlPeeqgTt2R8P6HO-s151Jf',
+					name: 'CSE102',
+					link: 'https://docs.google.com/document/d/1d0NsF8fhJyZTvbuGrYcxfmcaxHS0gmM5lwQ8NEle0kk/edit?tab=t.0',
 				},
 			],
 		},
